@@ -1,0 +1,38 @@
+charset "UTF-8";
+.btn{
+   
+    float:right;
+    padding:0 20px;
+    color: black;
+   
+}
+header{
+    height:150px;
+    
+    background-color: antiquewhite;
+    
+}
+.header-logo{
+    padding-top: 2rem;
+    font-size: 50px;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
+.container img{
+    float: left;
+}
+footer{
+    float:right;
+    background-color: slategray;
+    height: 100px;
+    width: 750px;
+}
+.footer-list a{
+    display: block;
+    color:white;
+}
+.container img{
+    width: 25%;
+}
